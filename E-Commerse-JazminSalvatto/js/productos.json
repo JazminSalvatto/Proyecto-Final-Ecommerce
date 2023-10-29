@@ -1,0 +1,152 @@
+[
+    {
+        "id": "bleizer-01",
+        "titulo": "Bleizer 01",
+        "imagen": "./img/bleizer-1.jpg",
+        "categoria": {
+            "nombre": "Bleizer",
+            "id": "bleizer"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "bleizer-02",
+        "titulo": "Bleizer 02",
+        "imagen": "./img/bleizer-2.jpg",
+        "categoria": {
+            "nombre": "Bleizer",
+            "id": "bleizer"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "bleizer-03",
+        "titulo": "Bleizer 03",
+        "imagen": "./img/bleizer-3.jpg",
+        "categoria": {
+            "nombre": "Bleizer",
+            "id": "bleizer"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "bleizer-04",
+        "titulo": "Bleizer 04",
+        "imagen": "./img/bleizer-4.jpg",
+        "categoria": {
+            "nombre": "Bleizer",
+            "id": "bleizer"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorio-01",
+        "titulo": "Accesorio 01",
+        "imagen": "./img/accesorio-1.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorio-02",
+        "titulo": "Accesorio 02",
+        "imagen": "./img/accesorio-2.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorio-03",
+        "titulo": "Accesorio 03",
+        "imagen": "./img/accesorio-3.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorio-04",
+        "titulo": "Accesorio 04",
+        "imagen": "./img/accesorio-4.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "vestido-01",
+        "titulo": "Vestido 01",
+        "imagen": "./img/vestido-1.jpg",
+        "categoria": {
+            "nombre": "Vestidos",
+            "id": "vestidos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "vestido-02",
+        "titulo": "Vestido 02",
+        "imagen": "./img/vestido-2.jpg",
+        "categoria": {
+            "nombre": "Vestidos",
+            "id": "vestidos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "vestido-03",
+        "titulo": "Vestido 03",
+        "imagen": "./img/vestido-3.jpg",
+        "categoria": {
+            "nombre": "Vestidos",
+            "id": "vestidos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "nuevo-01",
+        "titulo": "Nuevo 01",
+        "imagen": "./img/nuevo-1.jpg",
+        "categoria": {
+            "nombre": "Nuevo",
+            "id": "nuevo"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "nuevo-02",
+        "titulo": "Nuevo 02",
+        "imagen": "./img/nuevo-2.jpg",
+        "categoria": {
+            "nombre": "Nuevo",
+            "id": "nuevo"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "nuevo-03",
+        "titulo": "Nuevo 03",
+        "imagen": "./img/nuevo-3.jpg",
+        "categoria": {
+            "nombre": "Nuevo",
+            "id": "nuevo"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "nuevo-04",
+        "titulo": "Nuevo 04",
+        "imagen": "./img/nuevo-4.jpg",
+        "categoria": {
+            "nombre": "Nuevo",
+            "id": "nuevo"
+        },
+        "precio": 1000
+    }
+]
